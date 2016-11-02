@@ -1,5 +1,5 @@
 # Machine Learning
-Included are projects from the Google Dev Machine Learning course. Anaconda was giving me grief so I followed these instructions (Props to user Marco J from YouTube) for getting most of the packages up and running:
+Included are projects from the Google Dev Machine Learning course. Anaconda was giving me grief so I followed these instructions for getting most of the packages up and running:
 
 Note: sklearn requires scipy, scipy requires numpy and nose
 
