@@ -12,7 +12,7 @@ for i in range(len(iris.target)):
 	print 'Example %d: label %s, features %s' % (i, iris.target[i], iris.data[i])
 
 test_idx = [0,50,100]
-
+#show changes
 #training data
 train_target = np.delete(iris.target, test_idx)
 train_data = np.delete(iris.data, test_idx, axis=0)
